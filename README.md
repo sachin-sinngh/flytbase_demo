@@ -18,7 +18,7 @@ Run `npx ng generate component component-name` to generate a new component. You 
 Run `npm run prod or npx ng build --prod` to build the project.
 The build artifacts will be stored in the `dist/` directory.
 
-### Copy the contents of `dist/` directory to your server directory or to serve it directly run command `npm run build`
+### Copy the contents of `dist/` directory to your server output directory
 
 ## Running unit tests
 
